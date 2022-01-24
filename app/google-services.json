@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "328486525733",
+    "project_id": "tillty-repros",
+    "storage_bucket": "tillty-repros.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328486525733:android:83316f9f13ce7785dad8cc",
+        "android_client_info": {
+          "package_name": "com.example.flutter_fire_issue_6749"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328486525733-5risf63hsethrck5m4mgk2es2smajink.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAACgQXGBG2S_WmBfzmGJQ8U31Cao1IerI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328486525733-5risf63hsethrck5m4mgk2es2smajink.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "328486525733-ntt3curv09q6ugquqpgvcj4m7tp7bf9m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tillty.repros"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328486525733:android:0070687a083a98c6dad8cc",
+        "android_client_info": {
+          "package_name": "com.tillty.issue6749android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328486525733-5risf63hsethrck5m4mgk2es2smajink.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAACgQXGBG2S_WmBfzmGJQ8U31Cao1IerI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328486525733-5risf63hsethrck5m4mgk2es2smajink.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "328486525733-ntt3curv09q6ugquqpgvcj4m7tp7bf9m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tillty.repros"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
