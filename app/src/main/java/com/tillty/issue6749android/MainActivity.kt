@@ -47,7 +47,7 @@ class MainActivity : AppCompatActivity(), EventListener<DocumentSnapshot> {
         val server = data["server_timestamp"] as Timestamp?
 
         if (server != null) {
-          val diff = (server.toDate().time - local.toDate().time).absoluteValue / 1000
+          val diff = (server.toDate().time - local.toDate().time).absoluteValue.toFloat() / 1000
           Log.e(TAG, "Difference between local and server: $diff seconds")
         } else {
           Log.e(TAG, "No server response yet")
